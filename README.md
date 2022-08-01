@@ -18,7 +18,7 @@ Event organizers
  - [The Few Chosen](https://ctftime.org/team/140885)
 
 
-Didalam CTF ini, saya meraih peringkat [417](https://ctftime.org/team/195118), karena cuman bisa nyelesaiin challenge warmup - easy
+Didalam CTF ini, saya meraih peringkat 417 dari 1282 tim, karena cuman bisa nyelesaiin challenge warmup - easy
 
 Di semua chall pwn/binary exploit, saya menyelesaikannya setelah CTF berakhir, karena gatau cara patch libc & loader nya
 
