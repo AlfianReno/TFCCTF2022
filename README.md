@@ -20,9 +20,12 @@ Event organizers
 
 Didalam CTF ini, saya meraih peringkat 417 dari 1282 tim, karena cuman bisa nyelesaiin challenge warmup - easy
 
+![leaderboard](/attachments/leaderboard.png)
+
 Di semua chall pwn/binary exploit, saya menyelesaikannya setelah CTF berakhir, karena gatau cara patch libc & loader nya
 
 anyway, enjoy.
+
 
 ## Binary Exploitation
 
@@ -49,5 +52,3 @@ anyway, enjoy.
 - [Are You The Admin](https://github.com/AlfianReno/TFCCTF-2022/tree/main/Web%20Exploitation/Are%20You%20The%20Admin)
 
 - [Deeplinks](https://github.com/AlfianReno/TFCCTF-2022/tree/main/Web%20Exploitation/Deeplinks)
-
- 
