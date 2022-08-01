@@ -24,3 +24,30 @@ Di semua chall pwn/binary exploit, saya menyelesaikannya setelah CTF berakhir, k
 
 anyway, enjoy.
 
+## Binary Exploitation
+
+- [random](https://github.com/AlfianReno/TFCCTF-2022/tree/main/Binary%20Exploitation/random)
+
+- [winner](https://github.com/AlfianReno/TFCCTF-2022/tree/main/Binary%20Exploitation/winner)
+
+## Cryptography
+
+- [MAFIOSO](https://github.com/AlfianReno/TFCCTF-2022/tree/main/Cryptography/MAFIOSO)
+
+- [OBSCURE](https://github.com/AlfianReno/TFCCTF-2022/tree/main/Cryptography/OBSCURE)
+
+## Forensics
+
+- [BBBBBBBBBB](https://github.com/AlfianReno/TFCCTF-2022/tree/main/Forensics/BBBBBBBBBB)
+
+## Reverse Engineering
+
+- [source](https://github.com/AlfianReno/TFCCTF-2022/tree/main/Reverse%20Engineering/source)
+
+## Web Exploitation
+
+- [Are You The Admin](https://github.com/AlfianReno/TFCCTF-2022/tree/main/Web%20Exploitation/Are%20You%20The%20Admin)
+
+- [Deeplinks](https://github.com/AlfianReno/TFCCTF-2022/tree/main/Web%20Exploitation/Deeplinks)
+
+ 
