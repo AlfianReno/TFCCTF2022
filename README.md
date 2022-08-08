@@ -10,10 +10,11 @@ Format: Jeopardy
 
 Official URL: [http://ctf.thefewchosen.com/](http://ctf.thefewchosen.com/)
 
-This event's future weight is subject of public voting!
+**This event's future weight is subject of public voting!**
 
 Rating weight: 24.27 
-Event organizers 
+
+**Event organizers :**
 
  - [The Few Chosen](https://ctftime.org/team/140885)
 
