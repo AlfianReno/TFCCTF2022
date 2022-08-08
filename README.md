@@ -6,7 +6,7 @@ Fri, 29 July 2022, 10:00 UTC — Sun, 31 July 2022, 10:00 UTC
 
 A TFC CTF event.
 
-Format: Jeopardy Jeopardy
+Format: Jeopardy
 
 Official URL: [http://ctf.thefewchosen.com/](http://ctf.thefewchosen.com/)
 
